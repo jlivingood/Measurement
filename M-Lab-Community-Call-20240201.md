@@ -9,6 +9,33 @@
 
 Approaching the discussion this way is problematic. Rather than starting with existing datasets and tools and trying for force fit them to a particular question, start first with the questions to which the community wants answers. Then use that to guide you to appropriate datasets and tools - those that are fit to purpose. 
 
+Some example questions:
+1. Broadband Capacity - Per User
+2. Broadband Capacity - Per ISP Tier or ISP
+3. Broadband Capacity - Specific Geograpghic Area
+4. Broadband Responsiveness (Working Latency & Jitter) - Per User
+5. Broadband Responsiveness (Working Latency & Jitter) - Per ISP Tier or ISP
+6. Broadband Responsiveness (Working Latency & Jitter) - Specific Geographic Area
+7. Troubleshooting Connection Impairment - Per User
+8. Detecting Route Impairment & Route Loss
+9. Detecting Outages - Per ISP
+10. Detecting Outages - Specific Geographic Area
+11. Validating App-Agnosting Network Management Practices / Detecting App-Specific Practices (through error or policy)
+12. Discovery of Access Network Attributes (access type, tier configuration, ISP, device type, device or firmware version/age, etc.)
+13. Discovery of User LAN Attributes (network types, device types, operarting system versions, device age, etc.)
+14. Interconnection Capacity - Per ISP
+15. Interconnection Capacity - Per ISP-Destination Network Combination
+16. Routing Security
+17. Encrypted Traffic Volume & Share - Per ISP
+18. Encrypted Traffic Volume & Share - Specific Geographic Area
+19. Traffic Volume Over Time - Per ISP
+20. Traffic Volume Over Time - Specific Geographic Area
+21. Traffic Volume Spikes - Key Contributors (events, destintions, etc.)
+22. RPKI Support - Per ISP
+23. DNS Security Support - Per ISP (DNSSEC validation, DNS Over HTTPS support, DNS Over TLS support, etc.)
+24. Carrier Grade NAT Detection - Per ISP (e.g. native dual stack vs. CGN to support IPv4)
+25. Destination Concentration (Centralization) - Specific Geographic Area (e.g., how concentrated is destination traffic in the US)
+29. ??
 
 > What organizations, consortiums and experts should be consulted?
 
